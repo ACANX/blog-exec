@@ -12,9 +12,9 @@ body {
     top:20px; 
 }
 
-.footer{
+.footer {
    position:relative; 
-    left:20px; 
-    bottom:20px;   
+    margin-left:20px; 
+    margin-bottom:20px;   
     
 }
