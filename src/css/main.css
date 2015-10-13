@@ -5,3 +5,10 @@ body {
     background-size: 100%;  
     background-position:center;  
 } 
+
+*#Notice {
+    position:relative; 
+    left:200px; 
+    top:200px; 
+}
+
